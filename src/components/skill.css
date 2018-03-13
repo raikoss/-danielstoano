@@ -1,0 +1,22 @@
+.skill {
+    margin: 20px 0;
+    padding: 0 30px;
+}
+
+.skill-title {
+    font-size: 20px;
+}
+
+.skill-bar {
+    background-color: #505050;
+    border-radius: 5px;
+    width: 100%;
+    padding: 7px;
+}
+
+.skill-bar-percentage {
+    background-color: #5ADD5A;
+    height: 30px;
+    border-radius: 5px;
+    box-shadow: 0 1px #FFFFFF inset;
+}
