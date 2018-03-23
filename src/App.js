@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import SkillShowcase from "./components/skillShowcase";
+import Navbar from "./components/navbar"
 import './page.css';
 
 class App extends Component {
@@ -41,6 +42,7 @@ class App extends Component {
 		return (
 			<div className="App">
 				<div className="container" style={{backgroundColor: "#FFFFFF"}} >
+					<Navbar />
 					<div className="image-container">
 						<img src="https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png" style={{height: "400px"}} />
 					</div>

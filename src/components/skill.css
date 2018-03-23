@@ -8,15 +8,15 @@
 }
 
 .skill-bar {
-    background-color: #505050;
+    background-color: #436B9E;
     border-radius: 5px;
     width: 100%;
-    padding: 7px;
+    padding: 5px;
 }
 
 .skill-bar-percentage {
-    background-color: #5ADD5A;
-    height: 30px;
+    background-color: #39A1D6;
+    height: 20px;
     border-radius: 5px;
     box-shadow: 0 1px #FFFFFF inset;
 }
